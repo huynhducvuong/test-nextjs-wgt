@@ -28,9 +28,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-          <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
-          <link rel="stylesheet" href="/assets/css/style.css" />
-          <script src="/assets/js/bootstrap.min.js"></script>
+          <link rel="stylesheet" href="./assets/css/bootstrap.min.css" />
+          <link rel="stylesheet" href="./assets/css/style.css" />
+          <script src="./assets/js/bootstrap.min.js"></script>
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <div className="container-fluid header">

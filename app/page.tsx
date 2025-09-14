@@ -11,7 +11,7 @@ export default function Home() {
         <div className={styles.mask_group_images}>
           <Image
             className={styles.mask_group_image_1}
-            src="/assets/images/Mask_group_1.png"
+            src="./assets/images/Mask_group_1.png"
             alt="Next.js logo"
             width={380}
             height={618}
@@ -19,7 +19,7 @@ export default function Home() {
           />
           <Image
             className={styles.mask_group_image_2}
-            src="/assets/images/Mask_group_2.png"
+            src="./assets/images/Mask_group_2.png"
             alt="Next.js logo"
             width={380}
             height={618}
@@ -35,7 +35,7 @@ export default function Home() {
         <div className={styles.hero_group_images}>
           <Image
             className={styles.logo}
-            src="/assets/images/Hero1.png"
+            src="./assets/images/Hero1.png"
             alt="Next.js logo"
             width={684}
             height={800}
@@ -43,7 +43,7 @@ export default function Home() {
           />
           <Image
             className={styles.frame_hero_image_2}
-            src="/assets/images/Hero2.png"
+            src="./assets/images/Hero2.png"
             alt="Next.js logo"
             width={684}
             height={800}
@@ -55,7 +55,7 @@ export default function Home() {
         <div className={styles.hero_group_images}>
           <Image
             className={styles.logo}
-            src="/assets/images/Hero3.png"
+            src="./assets/images/Hero3.png"
             alt="Next.js logo"
             width={684}
             height={800}
@@ -63,7 +63,7 @@ export default function Home() {
           />
           <Image
             className={styles.frame_hero_image_2}
-            src="/assets/images/Hero4.png"
+            src="./assets/images/Hero4.png"
             alt="Next.js logo"
             width={684}
             height={800}
